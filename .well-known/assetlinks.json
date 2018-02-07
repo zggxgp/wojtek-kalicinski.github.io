@@ -9,7 +9,19 @@
     "sha256_cert_fingerprints":
     ["BF:46:EA:E9:85:C1:AB:0D:63:68:33:67:0C:36:86:BC:44:3E:49:F3:7D:75:DE:C5:90:9A:DC:B5:87:A8:0A:B4"]
   }
-}
+},
+ 
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.qiyi.video.pad",
+    "sha256_cert_fingerprints":
+    ["09:AA:D8:7F:73:7B:E8:C0:7F:49:F3:87:BD:88:69:69:70:62:A1:9E:7F:07:4E:F4:B8:62:E5:DA:5D:32:3C:AB"]
+  }   
+    
+    
+  }
  
  
 
